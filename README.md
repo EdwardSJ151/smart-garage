@@ -2,7 +2,9 @@
 
 This repository contains the implementation of an IoT-based Smart Garage system. The project integrates an ESP32 microcontroller, MQTT (via Mosquitto), and a Darknet/EasyOCR license-plate pipeline to automate garage door operations and vehicle entry logging.
 
-<video src="https://github.com/mendesLet/smart-garage/releases/download/demo-assets/iot.mp4" controls muted playsinline width="720"></video>
+
+https://github.com/user-attachments/assets/5ef7d723-9a8e-4853-b657-edd18e4786b3
+
 
 ### Directory Structure
 
